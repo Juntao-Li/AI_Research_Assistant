@@ -1,0 +1,13 @@
+.venv/
+.vnev/
+.rag_cache/
+data/.rag_cache/
+data/uploads/
+data/review_logs/
+__pycache__/
+.DS_Store
+.env
+
+data/documents/*
+!data/documents/sample_cooling_centers.pdf
+!data/documents/sample_research_notes.md

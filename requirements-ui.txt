@@ -1,0 +1,4 @@
+streamlit==1.66.0
+httpx==0.28.1
+pypdf==6.21.0
+python-docx==1.2.0
